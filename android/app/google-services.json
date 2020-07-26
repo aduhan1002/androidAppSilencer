@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "928596035714",
+    "firebase_url": "https://silencerproject.firebaseio.com",
+    "project_id": "silencerproject",
+    "storage_bucket": "silencerproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928596035714:android:6755bba433c9eb329a0c9b",
+        "android_client_info": {
+          "package_name": "com.example.silencer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928596035714-e82fbb5viea3mhlobbn886vp5ipnm44b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALRXKpfflvGLABE5vzDqK9Xavl4OfvK1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928596035714-e82fbb5viea3mhlobbn886vp5ipnm44b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
